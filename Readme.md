@@ -5,3 +5,4 @@ Voltando commit
 Subindo para o github
 Testando git strash
 Testando git alias = git config --global alias.s status
+Testando git reverts
